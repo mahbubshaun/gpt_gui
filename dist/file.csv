@@ -1,0 +1,23 @@
+ID,ID2,Question,Answer
+1,37,"Hi,what's the date today?","Today's date is June 20, 2023."
+2,41,Write a python function that prints hello world,"Sure, here is a simple Python function that prints ""Hello, World!"":
+python
+Copy code
+def print_hello_world():
+    print(""Hello, World!"")
+
+# Now, to call the function:
+print_hello_world()
+When you run the function print_hello_world(), it will print ""Hello, World!"" to the console."
+3,49,Write a JavaScript function that prints hello world,"Sure, here is a simple JavaScript function that prints ""Hello, World!"":
+javascript
+Copy code
+function printHelloWorld() {
+    console.log(""Hello, World!"");
+}
+
+// Now, to call the function:
+printHelloWorld();
+When you run the function printHelloWorld(), it will log ""Hello, World!"" to the console."
+3,4,OUTPUT FOR 1 + 5,The output for 1 + 5 is 6.
+3,4,OUTPUT FOR 1 + 10,The output for 1 + 10 is 11.
